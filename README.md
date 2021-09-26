@@ -1,2 +1,2 @@
 # Sorting-Station-TIA
-Microcontrollers project using TIA Portal and Factory I/O
+Microcontrollers LADDER project using Siemens' TIA Portal and Factory I/O
